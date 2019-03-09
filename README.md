@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+<style>
+@import url('https://fonts.googleapis.com/css?family=Roboto');   
 
-You can use the [editor on GitHub](https://github.com/jodymoore/gearPro-tuturials/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#logo em{
+  font-size: 55%;
+  color: #000000;
+}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#logo h3{
+  font-size: 400%;
+  line-height: 200px;
+  font-weight: bold;
+  font-family: "Roboto";
+  color: #FFFFFF;
+}
 
-### Markdown
+#logo span {
+  color:red;    
+}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+logo a {
+   text-decoration: none;
+}
 
-```markdown
-Syntax highlighted code block
+#logo {
+  text-align: center;
+  height: 200px;
+  background-color: grey;
+  border-radius: 10px;
+}
 
-# Header 1
-## Header 2
-### Header 3
+footer {
+    text-align:center;
+}
+</style>
 
-- Bulleted
-- List
+<div id="logo">
+<a href="http://gearpro.jodymoore.net/login" ><h3>GearPro<em>D<span>z</span></em></h3> </a>
+</div>
+<h4> Click above to checkout Gearpro Dz</h4>
+<br>
 
-1. Numbered
-2. List
+## Welcome to GearPro Dz 
 
-**Bold** and _Italic_ and `Code` text
+GearPro Dz is a Drop Zone Gear Management System. 
 
-[Link](url) and ![Image](src)
-```
+- Track pack jobs.
+- Maintain logbooks on parachute systems.
+- Track contractor packs.
+- Full accounting on contractor pack jobs.
+- Add comments to parachute records.
+- Maintain accurate log records.
+- Add and remove parachute systems.
+- Manage packing team. 
+- In sequence or out of sequence log entries.
+- Full parachute log record with repack info.
+- Line set Tracking 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro11.png" >
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jodymoore/gearPro-tuturials/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image16.png" >
 
-### Support or Contact
+<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image13.png" >
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image14.png" >
+
+<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image15.png" >
+
+<header><h3>Packing Control Dashboard</h3></header>
+
+<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image9.png" >
+
+<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image7.png" >
