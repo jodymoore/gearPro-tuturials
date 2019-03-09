@@ -43,32 +43,6 @@ footer {
 ## Welcome to GearPro Dz 
 
 GearPro Dz is a Drop Zone Gear Management System. 
+<h2>Quik start video</h2>
+<a href="https://drive.google.com/file/d/1LPIqkViFlPkRKgNST60XSfaqDiibVHhx/view" </a>
 
-- Track pack jobs.
-- Maintain logbooks on parachute systems.
-- Track contractor packs.
-- Full accounting on contractor pack jobs.
-- Add comments to parachute records.
-- Maintain accurate log records.
-- Add and remove parachute systems.
-- Manage packing team. 
-- In sequence or out of sequence log entries.
-- Full parachute log record with repack info.
-- Line set Tracking 
-
-
-<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro11.png" >
-
-<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image16.png" >
-
-<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image13.png" >
-
-<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image14.png" >
-
-<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image15.png" >
-
-<header><h3>Packing Control Dashboard</h3></header>
-
-<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image9.png" >
-
-<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image7.png" >
