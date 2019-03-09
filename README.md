@@ -44,4 +44,4 @@ footer {
 
 GearPro Dz is a Drop Zone Gear Management System. 
 
-<a href="https://drive.google.com/file/d/1LPIqkViFlPkRKgNST60XSfaqDiibVHhx/view" ><h3>Quik start video</h3> </a>
+<a href="https://drive.google.com/file/d/1LPIqkViFlPkRKgNST60XSfaqDiibVHhx/view" > Quik start video </a>
